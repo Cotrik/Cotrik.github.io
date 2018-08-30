@@ -16,13 +16,13 @@
         <tr>
           <!-- Navigation items -->
           <td class="navilink" width="50px" >
-            <a class="navilink" href="./home.html">Home</a>
+            <a class="navilink" href="../home.html">Home</a>
           </td>
           <td class="navilink" width="40px">
-            <a class="navilink" href="./research/home.html">Research</a>
+            <a class="navilink" href="../research/home.html">Research</a>
           </td>
           <td class="navilink" width="170px">
-            <a class="navilink" href="./ta/home.html">Teaching Assistant</a>
+            <a class="navilink" href="../ta/home.html">Teaching Assistant</a>
           </td>
 
         </tr>
